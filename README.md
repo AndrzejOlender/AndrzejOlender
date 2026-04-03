@@ -18,7 +18,5 @@ developing RAGs for business domains.
 and AI. Certified Kubernetes Administrator (CKA). Linux user since 1998.                                       
                                     
 🌐 [olender.io](https://olender.io) · 💼 [LinkedIn](https://www.linkedin.com/in/andrzej-olender)               
-                                                                      
-A bio można skrócić do:                                                                                        
-                                                                      
-  Platform Engineer @eSky | AI Agents | GCP | Kubernetes | Speaker @ Google Cloud Summit 2025
+                                                                                                                                            
+Platform Engineer @eSky | AI Agents | GCP | Kubernetes | Speaker @ Google Cloud Summit 2025
